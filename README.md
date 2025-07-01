@@ -23,4 +23,4 @@ In a physical setup, sensors + TENG will replace simulated values.
 
 ---
 
-Made with 💡 by [Sukrit Kashyap Goswami](https://www.linkedin.com/in/sukritgoswami)
+Made with 💡 by [Sukrit Kashyap Goswami](https://www.linkedin.com/in/sukritkashyapgoswami/)
