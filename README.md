@@ -32,6 +32,3 @@ This project is designed for local simulation. A live version is available via n
 
 # README.md: You're reading it 😉
 
-## 👨‍💼 Created By
-Sukrit Kashyap Goswami (https://www.linkedin.com/in/sukritkashyapgoswami/)
-
