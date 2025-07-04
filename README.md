@@ -1,26 +1,20 @@
-# ❄️ SnowVolt Dashboard – TENG Snow Energy Monitoring
+# ❄️ SnowVolt Dashboard
 
-This dashboard simulates renewable energy harvesting using snow via a Triboelectric Nanogenerator (TENG). Designed using Python + Streamlit, with real-time logging and Power BI analytics.
+An interactive Streamlit-based prototype simulating renewable energy generation using **Snow Triboelectric Nanogenerators (TENGs)**, inspired by research from UCLA.
 
-## 📌 Features
-- Simulated sensor data: Snow Depth, Temperature, Humidity, Energy, Battery
-- CSV logging + download
-- Power BI report with interactive visuals
-- Product Management use case for energy monitoring in cold regions
+## 🔧 Built With
+- **Streamlit** for the dashboard interface
+- **Plotly** for interactive visualizations
+- **Pandas** for data handling
+- **Mock CSV data** representing real-world TENG readings
 
-## 📊 Tools Used
-- Python (Streamlit, Pandas)
-- Power BI (for data storytelling)
-- GitHub, Colab, CSV export
+## 🎯 Features
+- KPI Metrics (Voltage, Current, Energy)
+- Line charts for energy trends
+- CSV download button
+- Lightweight PM-friendly UI
 
-## 📥 Try It Yourself
-1. Clone the repo
-2. Run `snowvolt_dashboard.py` via Streamlit
-3. Explore `SnowVolt_Dashboard.pbix` in Power BI
-
-## 🔮 Real-world Deployment
-In a physical setup, sensors + TENG will replace simulated values.
-
----
-
-Made with 💡 by [Sukrit Kashyap Goswami](https://www.linkedin.com/in/sukritkashyapgoswami/)
+## 🚀 To Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
