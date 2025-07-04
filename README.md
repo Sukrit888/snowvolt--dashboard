@@ -32,4 +32,4 @@ This project is designed for local simulation. A live version is available via n
 
 ## 👨‍💼 Created By
 Sukrit Kashyap Goswami  
-[LinkedIn](https://www.linkedin.com/in/sukritgoswami)
+[LinkedIn](https://www.linkedin.com/in/sukritkashyapgoswami/)
