@@ -18,3 +18,20 @@ An interactive Streamlit-based prototype simulating renewable energy generation 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Live Demo
+This project is designed for local simulation. A live version is available via ngrok upon request.
+
+## 📁 Project Files
+
+# app.py: The dashboard logic
+
+# snowvolt_data_for_powerbi.csv: Simulated TENG energy data
+
+# requirements.txt: Dependencies
+
+# README.md: You're reading it 😉
+
+## 👨‍💼 Created By
+Sukrit Kashyap Goswami (https://www.linkedin.com/in/sukritkashyapgoswami/)
+
